@@ -186,38 +186,7 @@ void ApocalypseWindow::Setup()
 {
 	SetPosition(50, 50);
 	SetSize(WINDOW_WIDTH, WINDOW_HEIGHT);
-	if (pc == 1)
-	{
-		SetTitle("sneakyevil Hook | Welcome sneakyevil :)");
-	}
-	if (pc == 2)
-	{
-		SetTitle("sneakyevil Hook | Welcome problemikk :)");
-	}
-	if (pc == 3)
-	{
-		SetTitle("sneakyevil Hook | Welcome xde :)");
-	}
-	if (pc == 4)
-	{
-		SetTitle("sneakyevil Hook | Welcome kuchyy :)");
-	}
-	if (pc == 5)
-	{
-		SetTitle("sneakyevil Hook | Welcome Veselka :)");
-	}
-	if (pc == 6)
-	{
-		SetTitle("sneakyevil Hook | Welcome Tomik :)");
-	}
-	if (pc == 7)
-	{
-		SetTitle("sneakyevil Hook | Welcome vodka :)");
-	}
-	if (pc == 8)
-	{
-		SetTitle("sneakyevil Hook | Welcome xp1geoN :)");
-	}
+	SetTitle("sneakyevil Hook | Welcome Paster :)");
 
 	RegisterTab(&RageBotTab);
 	RegisterTab(&LegitBotTab);
