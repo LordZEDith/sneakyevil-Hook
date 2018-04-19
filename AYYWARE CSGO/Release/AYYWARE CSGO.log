@@ -1,0 +1,40 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (AYYWARE CSGO.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AntiAntiAim.cpp
+  Autowall.cpp
+  Chams.cpp
+  Controls.cpp
+  CRC32.cpp
+  DLLMain.cpp
+  Dumping.cpp
+  ESP.cpp
+  GUI.cpp
+  Hacks.cpp
+  Hooks.cpp
+  ReflectiveLoader.cpp
+  Interfaces.cpp
+  LegitBot.cpp
+  MathFunctions.cpp
+  Menu.cpp
+  MetaInfo.cpp
+  MiscHacks.cpp
+  NadePredict.cpp
+  NetVarManager.cpp
+  NetVars.cpp
+  NoSkycpp.cpp
+  nosmoke.cpp
+  Offsets.cpp
+  RageBot.cpp
+  RenderManager.cpp
+  Resolver.cpp
+  RSP_S2DEX.cpp
+  EdgyLagComp.cpp
+  SpoofedConvar.cpp
+  tinyxml2.cpp
+  UTIL Functions.cpp
+  Utilities.cpp
+  Visual.cpp
+  Window.cpp
+     Creating library ..\..\sneakhook.lib and object ..\..\sneakhook.exp
+  AYYWARE CSGO.vcxproj -> D:\ApocalyseCheatsSC-master\AYYWARE CSGO\..\..\sneakhook.dll
+  AYYWARE CSGO.vcxproj -> ..\..\sneakhook.pdb (Full PDB)
